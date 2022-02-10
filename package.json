@@ -1,7 +1,6 @@
 {
   "name": "@webrotate360/imagerotator-react-example",
   "version": "1.0.0",
-  "homepage": "https://www.webrotate360.com/products/webrotate-360-product-viewer.aspx",
   "description": "Example integration of WebRotate 360 Product Viewer Runtime in React",
   "author": "WebRotate 360 LLC",
   "license": "See license in EULA.pdf",
