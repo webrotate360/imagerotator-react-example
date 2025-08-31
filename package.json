@@ -5,7 +5,7 @@
   "author": "WebRotate 360 LLC",
   "license": "See license in EULA.pdf",
   "dependencies": {
-    "@webrotate360/imagerotator": "^5.0.1",
+    "@webrotate360/imagerotator": "^5.3.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
